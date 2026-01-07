@@ -160,3 +160,22 @@ Automated checks are included to validate:
 - Basic quality rules
 
 This reflects best practices for reliable analytics.
+
+
+## Customer Segmentation Methodology
+Customer segmentation is performed based on key demographic, service, etc usage attributes to identify distinct groups with varying churn behaviors.
+
+### Customer segments based on tenure:
+| Segment    | Rule                |
+| ---------- | ------------------- |
+| new    |  ≤ x<=6            |
+| midterm | x<=24               |
+| longterm | otherwise        |
+
+
+### Customer segment rule based on service provides:
+| Filter     | Rule                |
+| ---------- | ------------------- |
+| Churn rate    |  ≤ 15–20%            |
+| Customers  | ≥ 100               |
+| Complexity | ≤ 3 services        |
