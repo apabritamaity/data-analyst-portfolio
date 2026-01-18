@@ -98,7 +98,7 @@ Find out which features are highly influence the churn most.
 
 <br/>
 
-### Predictive & Risk Segmentation (Optional but HIGHLY Valued)
+### Predictive & Risk Segmentation
 
 Here's we introducing basic Machine Learning.
 
